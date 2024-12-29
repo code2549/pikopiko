@@ -1,2 +1,0 @@
-# pikopiko
-pikopiko
